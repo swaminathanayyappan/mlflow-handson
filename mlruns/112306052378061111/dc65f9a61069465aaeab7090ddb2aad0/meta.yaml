@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112306052378061111/dc65f9a61069465aaeab7090ddb2aad0/artifacts
+end_time: 1719234777388
+entry_point_name: ''
+experiment_id: '112306052378061111'
+lifecycle_stage: active
+run_id: dc65f9a61069465aaeab7090ddb2aad0
+run_name: luxuriant-steed-798
+run_uuid: dc65f9a61069465aaeab7090ddb2aad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719234764288
+status: 3
+tags: []
+user_id: swaminathan.ayya

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a8f9206b9cc0467dab1ecc96b4c0c3f3/artifacts
+deleted_time: 1719237103198
+end_time: 1719236752657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a8f9206b9cc0467dab1ecc96b4c0c3f3
+run_name: handsome-bear-133
+run_uuid: a8f9206b9cc0467dab1ecc96b4c0c3f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719236736553
+status: 4
+tags: []
+user_id: swaminathan.ayya

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d42e5cece8504d0f9214c6f44c07ecd8/artifacts
+deleted_time: 1719237103198
+end_time: 1719236794956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d42e5cece8504d0f9214c6f44c07ecd8
+run_name: enchanting-fly-440
+run_uuid: d42e5cece8504d0f9214c6f44c07ecd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719236779566
+status: 4
+tags: []
+user_id: swaminathan.ayya

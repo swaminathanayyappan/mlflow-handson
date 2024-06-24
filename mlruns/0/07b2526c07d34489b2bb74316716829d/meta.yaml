@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/07b2526c07d34489b2bb74316716829d/artifacts
+deleted_time: 1719237103238
+end_time: 1719232779404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 07b2526c07d34489b2bb74316716829d
+run_name: zealous-cat-298
+run_uuid: 07b2526c07d34489b2bb74316716829d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719232709844
+status: 4
+tags: []
+user_id: swaminathan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/112306052378061111/88e0f1660d2e4a5ab10fc11ce6e7e64a/artifacts
+end_time: 1719234755934
+entry_point_name: ''
+experiment_id: '112306052378061111'
+lifecycle_stage: active
+run_id: 88e0f1660d2e4a5ab10fc11ce6e7e64a
+run_name: kindly-sheep-332
+run_uuid: 88e0f1660d2e4a5ab10fc11ce6e7e64a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719234733467
+status: 3
+tags: []
+user_id: swaminathan.ayya

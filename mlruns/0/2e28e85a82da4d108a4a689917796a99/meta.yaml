@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2e28e85a82da4d108a4a689917796a99/artifacts
+deleted_time: 1719237103246
+end_time: 1719232209621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2e28e85a82da4d108a4a689917796a99
+run_name: abrasive-ram-294
+run_uuid: 2e28e85a82da4d108a4a689917796a99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719232100618
+status: 4
+tags: []
+user_id: swaminathan
